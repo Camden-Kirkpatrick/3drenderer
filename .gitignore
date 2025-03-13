@@ -1,0 +1,9 @@
+.vs/
+*.user
+Debug/
+Release/
+x64/
+3drenderer/
+Versions/
+
+
